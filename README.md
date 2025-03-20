@@ -1,35 +1,31 @@
-Corotos Clone
+# Corotos Clone
 
 This is a simple clone of the Corotos.com platform built with HTML and CSS.
 
-Features
+## Features
 
-Basic HTML structure mimicking the Corotos interface.
+- Basic HTML structure mimicking the Corotos interface.
+- CSS styling to replicate the platform's design.
+- Responsive layout for different screen sizes.
 
-CSS styling to replicate the platform's design.
+## Technologies Used
 
-Responsive layout for different screen sizes.
+- HTML5
+- CSS3
 
-Technologies Used
+## Installation & Usage
 
-HTML5
+1. Clone this repository:
+2. Navigate to the project folder:
+3. Open `index.html` in your browser.
 
-CSS3
+## Project Structure
 
-Installation & Usage
-
-Clone this repository:
-
-Navigate to the project folder:
-
-Open index.html in your browser.
-
-Project Structure
-
-Contribution
+## Contribution
 
 If you want to contribute, feel free to fork the repository and submit a pull request with your improvements.
 
-License
+## License
 
 This project is distributed under the MIT license.
+
